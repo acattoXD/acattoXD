@@ -1,4 +1,3 @@
-<!--
 hi,
 i'm acatto!
 here's my status:
@@ -7,5 +6,3 @@ here's my status:
 ![vscode](https://api.statusbadges.me/badge/vscode/1242863285368393738)
 ![intellij](https://api.statusbadges.me/badge/intellij/1242863285368393738)
 [![spotify](https://api.statusbadges.me/badge/spotify/1242863285368393738)](https://api.statusbadges.me/openspotify/1242863285368393738)
-
--->
